@@ -1,0 +1,8 @@
+[BASIC]
+variable-rgx=[a-zA-Z_][a-z0-9_]{0,30}$
+argument-rgx=[a-zA-Z_][a-z0-9_]{0,30}$
+function-rgx=(([a-z][a-z0-9_]{2,50})|(_[a-z0-9_]*))$
+max-line-length=80
+
+[MESSAGES CONTROL]
+disable=W0611,R0903,R1705,W0622
