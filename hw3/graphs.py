@@ -143,7 +143,7 @@ class Graph(ABC):
     @abstractmethod
     def to_adj_matrix(self) -> 'AdjacencyMatrixDigraph':
         """
-        Return the same graph in adjacency list form.
+        Return the same graph in adjacency matrix form.
 
         Inputs: (nothing)
 
