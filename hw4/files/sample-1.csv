@@ -1,0 +1,8 @@
+airline,flight_num,origin_code,origin_name,destination_code,destination_name,departure_time,cost
+UC,1,ORD,Chicago O'Hare,LGA,New York LaGuardia,MORNING,200
+UC,2,ORD,Chicago O'Hare,LGA,New York LaGuardia,AFTERNOON,100
+UC,3,LGA,New York LaGuardia,LAX,Los Angeles International,MORNING,200
+UC,4,LGA,New York LaGuardia,LAX,Los Angeles International,AFTERNOON,300
+UC,5,LAX,Los Angeles International,LGA,New York LaGuardia,NIGHT,5000
+UC,6,LAX,Los Angeles International,SFO,San Francisco International,EVENING,100
+UC,7,SFO,San Francisco International,ORD,Chicago O'Hare,NIGHT,350
