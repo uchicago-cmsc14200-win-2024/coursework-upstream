@@ -3,8 +3,8 @@ UC,2010,ORD,Chicago O'Hare,LGA,New York LaGuardia,MORNING,200
 UC,2012,ORD,Chicago O'Hare,LGA,New York LaGuardia,EVENING,200
 UC,2020,ORD,Chicago O'Hare,SFO,San Francisco International,MORNING,1200
 UC,2022,ORD,Chicago O'Hare,SFO,San Francisco International,EVENING,1200
-UC,2040,ORD,Chicago O'Hare,ATL,New York LaGuardia,MORNING,1000
-UC,2042,ORD,Chicago O'Hare,ATL,New York LaGuardia,EVENING,500
+UC,2040,ORD,Chicago O'Hare,ATL,Hartsfield-Jackson Atlanta International,MORNING,1000
+UC,2042,ORD,Chicago O'Hare,ATL,Hartsfield-Jackson Atlanta International,EVENING,500
 UC,2050,ORD,Chicago O'Hare,AUS,Austin-Bergstrom International,NIGHT,500
 UC,2052,ORD,Chicago O'Hare,AUS,Austin-Bergstrom International,AFTERNOON,2000
 UC,2070,ORD,Chicago O'Hare,SEA,Seattle-Tacoma International,MORNING,1000
@@ -12,8 +12,8 @@ UC,2072,ORD,Chicago O'Hare,SEA,Seattle-Tacoma International,EVENING,1000
 UC,2093,ORD,Chicago O'Hare,MSP,Minneapolis–Saint Paul International,NIGHT,50
 UC,2101,LGA,New York LaGuardia,ORD,Chicago O'Hare,AFTERNOON,2000
 UC,2103,LGA,New York LaGuardia,ORD,Chicago O'Hare,NIGHT,300
-UC,2140,LGA,New York LaGuardia,ATL,New York LaGuardia,MORNING,200
-UC,2142,LGA,New York LaGuardia,ATL,New York LaGuardia,EVENING,1000
+UC,2140,LGA,New York LaGuardia,ATL,Hartsfield-Jackson Atlanta International,MORNING,200
+UC,2142,LGA,New York LaGuardia,ATL,Hartsfield-Jackson Atlanta International,EVENING,1000
 UC,2161,LGA,New York LaGuardia,MIA,Miami International,AFTERNOON,200
 UC,2163,LGA,New York LaGuardia,MIA,Miami International,NIGHT,700
 UC,2201,SFO,San Francisco International,ORD,Chicago O'Hare,AFTERNOON,1100
@@ -26,24 +26,24 @@ UC,2320,LAX,Los Angeles International,SFO,San Francisco International,MORNING,20
 UC,2322,LAX,Los Angeles International,SFO,San Francisco International,EVENING,200
 UC,2351,LAX,Los Angeles International,AUS,Austin-Bergstrom International,AFTERNOON,800
 UC,2353,LAX,Los Angeles International,AUS,Austin-Bergstrom International,NIGHT,800
-UC,2401,ATL,New York LaGuardia,ORD,Chicago O'Hare,AFTERNOON,2000
-UC,2403,ATL,New York LaGuardia,ORD,Chicago O'Hare,NIGHT,600
-UC,2411,ATL,New York LaGuardia,LGA,New York LaGuardia,AFTERNOON,400
-UC,2413,ATL,New York LaGuardia,LGA,New York LaGuardia,NIGHT,400
-UC,2450,ATL,New York LaGuardia,AUS,Austin-Bergstrom International,MORNING,200
-UC,2452,ATL,New York LaGuardia,AUS,Austin-Bergstrom International,EVENING,400
-UC,2461,ATL,New York LaGuardia,MIA,Miami International,AFTERNOON,300
-UC,2463,ATL,New York LaGuardia,MIA,Miami International,NIGHT,300
+UC,2401,ATL,Hartsfield-Jackson Atlanta International,ORD,Chicago O'Hare,AFTERNOON,2000
+UC,2403,ATL,Hartsfield-Jackson Atlanta International,ORD,Chicago O'Hare,NIGHT,600
+UC,2411,ATL,Hartsfield-Jackson Atlanta International,LGA,New York LaGuardia,AFTERNOON,400
+UC,2413,ATL,Hartsfield-Jackson Atlanta International,LGA,New York LaGuardia,NIGHT,400
+UC,2450,ATL,Hartsfield-Jackson Atlanta International,AUS,Austin-Bergstrom International,MORNING,200
+UC,2452,ATL,Hartsfield-Jackson Atlanta International,AUS,Austin-Bergstrom International,EVENING,400
+UC,2461,ATL,Hartsfield-Jackson Atlanta International,MIA,Miami International,AFTERNOON,300
+UC,2463,ATL,Hartsfield-Jackson Atlanta International,MIA,Miami International,NIGHT,300
 UC,2501,AUS,Austin-Bergstrom International,ORD,Chicago O'Hare,MORNING,600
 UC,2503,AUS,Austin-Bergstrom International,ORD,Chicago O'Hare,EVENING,200
 UC,2530,AUS,Austin-Bergstrom International,LAX,Los Angeles International,MORNING,900
 UC,2532,AUS,Austin-Bergstrom International,LAX,Los Angeles International,EVENING,900
-UC,2541,AUS,Austin-Bergstrom International,ATL,New York LaGuardia,AFTERNOON,300
-UC,2543,AUS,Austin-Bergstrom International,ATL,New York LaGuardia,NIGHT,300
+UC,2541,AUS,Austin-Bergstrom International,ATL,Hartsfield-Jackson Atlanta International,AFTERNOON,300
+UC,2543,AUS,Austin-Bergstrom International,ATL,Hartsfield-Jackson Atlanta International,NIGHT,300
 UC,2610,MIA,Miami International,LGA,New York LaGuardia,MORNING,600
 UC,2612,MIA,Miami International,LGA,New York LaGuardia,EVENING,600
-UC,2640,MIA,Miami International,ATL,New York LaGuardia,MORNING,200
-UC,2642,MIA,Miami International,ATL,New York LaGuardia,EVENING,200
+UC,2640,MIA,Miami International,ATL,Hartsfield-Jackson Atlanta International,MORNING,200
+UC,2642,MIA,Miami International,ATL,Hartsfield-Jackson Atlanta International,EVENING,200
 UC,2701,SEA,Seattle-Tacoma International,ORD,Chicago O'Hare,AFTERNOON,2000
 UC,2703,SEA,Seattle-Tacoma International,ORD,Chicago O'Hare,NIGHT,900
 UC,2781,SEA,Seattle-Tacoma International,PDX,Portland International,AFTERNOON,300
