@@ -313,7 +313,7 @@ def sample_schedule_3() -> dict[str, Airport]:
     lga = Airport("New York LaGuardia", "LGA")
     sfo = Airport("San Francisco International", "SFO")
     lax = Airport("Los Angeles International", "LAX")
-    atl = Airport("New York LaGuardia", "ATL")
+    atl = Airport("Hartsfield-Jackson Atlanta International", "ATL")
     aus = Airport("Austin-Bergstrom International", "AUS")
     mia = Airport("Miami International", "MIA")
     sea = Airport("Seattle-Tacoma International", "SEA")
